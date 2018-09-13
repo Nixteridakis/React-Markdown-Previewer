@@ -1,4 +1,3 @@
 Markdown Previewer 
 
-
-***Powered by React
+First project build on React to learn React basics 
