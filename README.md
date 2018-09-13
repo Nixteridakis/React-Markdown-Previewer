@@ -1,3 +1,3 @@
 ## Markdown Previewer 
 
-First project build on React to learn React basics 
+First project build on React.js using create-react-app - npm
