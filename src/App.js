@@ -1,13 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
+import {Header} from './components/header';
+import {MarkdownWindow} from './components/markdownWindow';
+import {PreviewWindow} from './components/previewWindow';
 import './App.css';
-
-
-
-marked.setOptions({
-  breaks : true
-  });
-
 
 class App extends React.Component {
   constructor(props) {
@@ -66,83 +61,6 @@ class App extends React.Component {
             state = {this.state}
             />
         </div>
-      </div>
-    );
-  }
-}
-
-const Header = function() {
-  return (
-    <div id = "header">
-      <h1>MARKDOWN to HTML</h1>
-    </div>
-  );
-};
-
-class MarkdownWindow extends React.Component {
-  render() {
-    let rescale;
-    if (this.props.state.resizeMarkdown === true){
-      rescale = {
-       flex:`1 0 100%`
-      }
-    }
-     else if (this.props.state.resizePreview === true){
-      rescale = {
-        display:'none'
-      }
-     }
-    return (
-      <div style = {rescale} className = "markdown-window">
-        <EnlargeBar 
-          clearButton = {true} 
-          clear = {this.props.clearMarkdown} 
-          resize = {this.props.resizeMarkdown}
-          />
-        <textarea
-          id = "editor"
-          onChange = {this.props.handleChange}
-          value = {this.props.markdown}
-        />
-      </div>
-    );
-  }
-}
-
-class PreviewWindow extends React.Component {
-  render() {
-    let rescale;
-    if (this.props.state.resizePreview === true){
-      rescale = {
-      flex : `1 0 100%`, 
-      marginLeft: `0px`      
-      };
-    }
-    else if (this.props.state.resizeMarkdown === true ){
-      rescale = {
-        display:'none'
-      }
-      }
-    return (
-      <div style = {rescale} id = "preview-window">
-        <EnlargeBar 
-          addTitle="Result" 
-          resize = {this.props.resizePreview}
-          />
-        <div id = "preview" dangerouslySetInnerHTML = {{ __html: marked(this.props.preview) }} />
-      </div>
-    );
-  }
-}
-
-class EnlargeBar extends React.Component {
-  render() {
-    return (
-      <div className = "enlarge-bar">
-        <div className = "window-title">
-          {this.props.clearButton && <div className="clear" onClick = {this.props.clear}>Clear</div>}
-          {this.props.addTitle}</div>
-        <i className="fa fa-arrows-alt" onClick={this.props.resize}/>
       </div>
     );
   }
