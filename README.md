@@ -1,6 +1,4 @@
-Markdwon Previewer 
-
-
+Markdown Previewer 
 
 
 ***Powered by React
