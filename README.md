@@ -1,4 +1,3 @@
-Markdown Previewer 
+## Markdown Previewer 
 
-
-***Powered by React
+First project build on React.js using create-react-app - npm
