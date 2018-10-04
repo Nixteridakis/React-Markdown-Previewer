@@ -1,0 +1,767 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Markd",
+				"MarkdownWindow"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"col-6",
+				"col-6"
+			],
+			[
+				"text-",
+				"text-left"
+			],
+			[
+				"auth",
+				"authProvider"
+			],
+			[
+				"pROP",
+				"PropTypes"
+			],
+			[
+				"Prop",
+				"propTypes"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"job",
+				"jobDescMax"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"activate",
+				"activateStep"
+			],
+			[
+				"acti",
+				"activateStep"
+			],
+			[
+				"overfl",
+				"overflow-y"
+			],
+			[
+				"acc",
+				"accountPill"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"col-",
+				"col-auto"
+			],
+			[
+				"activat",
+				"activateStep1"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"jus",
+				"justify-content-md-start"
+			],
+			[
+				"d-md-bloc",
+				"d-md-inline-block"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"d-",
+				"d-xl-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"col-12",
+				"col-12"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"trans",
+				"translateY()"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"boac",
+				"background-color"
+			],
+			[
+				"session",
+				"session-profile"
+			],
+			[
+				"transla",
+				"translateY()"
+			],
+			[
+				"border-bot",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"fo",
+				"form-row"
+			],
+			[
+				"subt",
+				"subtitle-type2"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"subtitle-type",
+				"subtitle-type1"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"backrou",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inli",
+				"inline-flex"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"tras",
+				"translateY()"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"col",
+				"col-xl-3"
+			],
+			[
+				"c",
+				"contain"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"B",
+				"background-image"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"tran",
+				"transitionEnterTimeout"
+			],
+			[
+				"remov",
+				"removeFish"
+			],
+			[
+				"upd",
+				"updateForm"
+			],
+			[
+				"pri",
+				"printInventory"
+			],
+			[
+				"localS",
+				"localStorageRef"
+			],
+			[
+				"compo",
+				"componentWillUpdate"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"render",
+				"renderOrder"
+			],
+			[
+				"order",
+				"orderIds"
+			],
+			[
+				"copy",
+				"copyState"
+			],
+			[
+				"cop",
+				"copyState"
+			],
+			[
+				"add",
+				"addToOrder"
+			],
+			[
+				"clss",
+				"className"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"sam",
+				"sampleFishes"
+			],
+			[
+				"Store",
+				"StorePicker"
+			],
+			[
+				"sub",
+				"submitMe"
+			],
+			[
+				"t",
+				"TestComp"
+			],
+			[
+				"box",
+				"boxVal"
+			],
+			[
+				"cLASS",
+				"className"
+			],
+			[
+				"s",
+				"StorePicker"
+			],
+			[
+				"props",
+				"propTypes"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"reac",
+				"ReactDOM"
+			],
+			[
+				"wri",
+				"writeHead"
+			],
+			[
+				"pr",
+				"printFirstName"
+			],
+			[
+				"padi",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"HTMLPrettify"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"HTML",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal View: Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"sa",
+				"SassBeautify"
+			],
+			[
+				"PRETT",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package cotnrol:instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"person",
+			"clear()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marinoschrysanthou/Desktop/Web Design/React Markdown Compiler/src/components/previewWindow.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/React Markdown Compiler/src/components/markdownWindow.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/React Markdown Compiler/src/components/enlargeBar.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/React Markdown Compiler/package.json",
+		"/Users/marinoschrysanthou/Desktop/Web Design/React Markdown Compiler/src/components/header.js",
+		"/Users/marinoschrysanthou/Documents/.gitignore",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Markdown Compiler/.gitignore",
+		"/Users/marinoschrysanthou/Desktop/test react/test-react/.gitignore",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Markdown Previewer/markdown-previewer/public/index.html",
+		"/Users/marinoschrysanthou/Desktop/Markdown Previewer/markdown-previewer/src/App.js",
+		"/Users/marinoschrysanthou/Desktop/Markdown Previewer/markdown-previewer/src/App.css",
+		"/Users/marinoschrysanthou/Desktop/Markdown Previewer/markdown-previewer/package.json",
+		"/Users/marinoschrysanthou/Desktop/Markdown Previewer/markdown-previewer/src/index.js",
+		"/Users/marinoschrysanthou/Desktop/Markdown Previewer/markdown-previewer/public/index.html",
+		"/Users/marinoschrysanthou/Desktop/Markdown Previewer/markdown-previewer/src/App.scss",
+		"/Users/marinoschrysanthou/Downloads/react-star-wars-api-master/star-wars/src/index.js",
+		"/Users/marinoschrysanthou/Desktop/test react/test-react/src/index.js",
+		"/Users/marinoschrysanthou/Desktop/test react/test-react/public/index.html",
+		"/Users/marinoschrysanthou/Downloads/react-star-wars-api-master/star-wars/README.md",
+		"/Users/marinoschrysanthou/Desktop/casper/facebook-purge-master/config.json",
+		"/Users/marinoschrysanthou/Desktop/casper/facebook-purge-master/fb_collectposts.js",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/README.md",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/package.json",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/package-lock.json",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/movie.js",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/media.js",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/index.js",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/cd.js",
+		"/Users/marinoschrysanthou/Downloads/WTMB-master/book.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Bike Shop/index.html",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Bike Shop/style.css",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Bike Shop/style.scss",
+		"/Users/marinoschrysanthou/Downloads/movie-search-app-master/src/App.js",
+		"/Users/marinoschrysanthou/Downloads/movie-search-app-master/README.md",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/SMACCS/index.html",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/Facebook_Chatbot/index.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/Javascript test/script.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/SMACCS/index.js",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_front_end_developer.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_expertprofile.scss",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_rubyonrails.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_nodejs.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/urls.py",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/views.py",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_c.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/cookieconsent.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/index_search.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/main.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/chat-modal.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/forms.py",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_bootstrap.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_javascript.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_react.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_data_scientist.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_angular.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/templates/core/edit_profile.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/profile-bar.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_editprofile.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_nav.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_landing.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/templates/web/base.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/templates/core/index.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_how_does_it_work.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_signup.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_login.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_steps.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_findexpert.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_forms.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/bower_components/EasyAutocomplete/src/sass/easy-autocomplete.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/bower_components/EasyAutocomplete/src/sass/easy-autocomplete.themes.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/bower_components/EasyAutocomplete/dist/easy-autocomplete.min.css",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/storage.py",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/registration/templates/registration/password_reset_form.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_chatmodal.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/registration/forms.py",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/templates/core/expert_profile.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_controls.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/registration/templates/registration/password_reset_confirm.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/templates/core/find_an_expert.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/registration/templates/registration/login.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/registration/templates/registration/sign_up.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_findsubject.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/templates/core/find_a_subject.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/apps/core/templates/core/how_it_works.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_c_plusplus.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_wordpress.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_sql.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_python.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_c_sharp.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_net.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_php.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_java.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_ios.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_go.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_drupal.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_android.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_blockchain.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/jd_fed.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/templates/web/base.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/settings/local.py",
+		"/Users/marinoschrysanthou/Development/tutolabs/webapp/settings/local.py",
+		"/oojs.html",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/StorePicker.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/Order.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/Inventory.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/Header.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/Fish.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/AddFishForm.js",
+		"/Users/marinoschrysanthou/Desktop/Web Design/Excercises/React for Beginners - WB/catch-of-the-day/src/components/App.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/core/templates/core/expert_profile.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/templates/web/base.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/core/templates/core/find_an_expert.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/core/templates/core/how_it_works.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/steps.js",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/registration/templates/registration/sign_up.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_main.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/core/templates/core/index.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/templates/flatpages/default.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_settings.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/scss/_welcome.scss",
+		"/Users/marinoschrysanthou/Development/tutolabs/static/js/navbar.js",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/static/assets/css/styles-3.css",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/index.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/core/templates/core/find_a_subject.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/core/templates/core/edit_profile.html",
+		"/Users/marinoschrysanthou/Development/tutolabs/tutolabs/tutolabs/settings/local.py",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/apps/core/templates/core/signup.html",
+		"/Users/marinoschrysanthou/Development/Digital Minds/digitalminds/static/assets/css/signup.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/User/node2.sublime-build",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"static/scss/_expertprofile.scss"
+			],
+			[
+				"base",
+				"templates/email/base.html"
+			],
+			[
+				"style",
+				"src/css/style.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
