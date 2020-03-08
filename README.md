@@ -1,3 +1,4 @@
 ## Markdown Previewer 
 
-First project build on React.js using create-react-app - npm
+You can view the project here:
+https://nixteridas-markdown-previewer.herokuapp.com/
